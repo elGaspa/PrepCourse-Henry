@@ -1,2 +1,2 @@
-Prueba modulo 2
+Esta es una prueba del modulo 2
 
